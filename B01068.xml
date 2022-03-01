@@ -1,0 +1,388 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The forlorne traveller: whose first beginning was pleasure and joy, but his riotous spending wrought his decay, hee tooke delight to spend and rore, and at the last dy'd very poore. To a dainty new court tune.</title>
+            <author>Crimsal, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1634</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01068</idno>
+            <idno type="STC">STC 5421</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[524]</idno>
+            <idno type="EEBO-CITATION">99891609</idno>
+            <idno type="PROQUEST">ocm99891609</idno>
+            <idno type="VID">183197</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01068)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183197)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[281])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The forlorne traveller: whose first beginning was pleasure and joy, but his riotous spending wrought his decay, hee tooke delight to spend and rore, and at the last dy'd very poore. To a dainty new court tune.</title>
+                  <author>Crimsal, Richard.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>For F. Coules.,</publisher>
+                  <pubPlace>[Printed in L]ondon :</pubPlace>
+                  <date>[1634?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: R.C. [i.e. Richard Crimsal].</note>
+                  <note>Publication date suggested by STC.</note>
+                  <note>Verse: "You yong men that much pleasure have ..."</note>
+                  <note>In two parts, separated for mounting; woodcuts at head of each part.</note>
+                  <note>Imperfect: torn at foot, affecting imprint.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:183197:1"/>
+            <!-- PDF PAGE 4 -->
+            <head>The forlorne Traveller:</head>
+            <argument>
+               <l>Whoſe firſt beginning was pleaſure and joy,</l>
+               <l>But his riotous ſpending wrought his decay,</l>
+               <l>Hee tooke delight to ſpend and rore,</l>
+               <l>And at the laſt dy'd very poore.</l>
+            </argument>
+            <opener>To a dainty new Court Tune.</opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <l>YOu Yong men that much pleaſure have</l>
+               <l>come lend an eare</l>
+               <l>To me that once lived fine and brave,</l>
+               <l>and voyd of all feare,</l>
+               <l>For I had gold and ſilver plenty,</l>
+               <l>With all things dainty,</l>
+               <l>and then I did rore;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>But now alas I am growne poore,</hi>
+                  </l>
+                  <l>
+                     <hi>And not reſpected, but am rejected,</hi>
+                  </l>
+                  <l>
+                     <hi>woe is mee therefore.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>My Parents were of good eſtate,</l>
+                  <l>and did maintaine</l>
+                  <l>Me for to ſpend at any rate,</l>
+                  <l>which was but in vaine;</l>
+                  <l>They 'lowd me meanes to ſpend and revel,</l>
+                  <l>In courſes evill;</l>
+                  <l>they ſuch true love bore</l>
+                  <lg type="refrain">
+                     <l>To me, but now, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>No Towne nor City in England faire,</l>
+                  <l>but I have ſeene,</l>
+                  <l>And I doe meane for to declare,</l>
+                  <l>whereas I have beene;</l>
+                  <l>And in each place my meanes conſumed,</l>
+                  <l>Thus I preſumed</l>
+                  <l>for to ſpend and rore,</l>
+                  <lg type="refrain">
+                     <l>But now alas I am, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>From London I to Graveſ-end went,</l>
+                  <l>with coine great ſtore,</l>
+                  <l>To Canterbury in famous Kent,</l>
+                  <l>and many Townes more,</l>
+                  <l>Where I did meet with roring Gallants,</l>
+                  <l>That ſpent their tallents,</l>
+                  <l>thus I company bore;</l>
+                  <lg type="refrain">
+                     <l>But now alas, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Suſſex, Surrey, and Southampton,</l>
+                  <l>and Barkeſhire too,</l>
+                  <l>Wiltſhire, Dorſſetſhire and ſo on,</l>
+                  <l>as many more doe,</l>
+                  <l>Till all is ſpent and they forſaken,</l>
+                  <l>Then are they taken.</l>
+                  <l>with ſorrow full ſore,</l>
+                  <lg type="refrain">
+                     <l>So is't with me, for I, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Summerſetſhire and Devonſhire,</l>
+                  <l>and Cornwall then,</l>
+                  <l>I travel'd, as you now may heare,</l>
+                  <l>and then backe agen,</l>
+                  <l>Then Gloſter, Hereford, and Woſter,</l>
+                  <l>Stafford and Cheſter,</l>
+                  <l>I ranged all ore,</l>
+                  <lg type="refrain">
+                     <l>But now alas, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>My Hoſt and Hoſteſſes where I came,</l>
+                  <l>bid me welcome ſtill,</l>
+                  <l>Saying, kind ſir your ſelfe may claime,</l>
+                  <l>even what you will,</l>
+                  <l>You may but aske and have your pleaſure,</l>
+                  <l>In any meaſure,</l>
+                  <l>daunce, ſing, drinke and rore,</l>
+                  <lg type="refrain">
+                     <l>But now alas, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>To Darby, Yorke and Lancaſhire,</l>
+                  <l>and to Comberland.</l>
+                  <l>Weſtmerland Durram, then I did prepare</l>
+                  <l>to Northumberland,</l>
+                  <l>My money now being much waſted,</l>
+                  <l>I backward haſted,</l>
+                  <l>for to fetch ſome more;</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>But now alas I am growne poore,</hi>
+                     </l>
+                     <l>
+                        <hi>And not reſpected, but am rejected,</hi>
+                     </l>
+                     <l>
+                        <hi>woe is me therefore.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:183197:1"/>
+               <!-- PDF PAGE 4 -->
+               <head>The ſecond part.</head>
+               <opener>To the ſame tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>TO Leſter and to Notingham,</l>
+                  <l>I backe returned,</l>
+                  <l>So to Warwicke and Lincolne came,</l>
+                  <l>whereas I ſoiourned,</l>
+                  <l>There did I waſt away my treaſure,</l>
+                  <l>Beyond all meaſure,</l>
+                  <l>yet ſtill I did rore,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>But now alas I am growne poore.</hi>
+                     </l>
+                     <l>
+                        <hi>And nor reſpected, but am rejected,</hi>
+                     </l>
+                     <l>
+                        <hi>woe is me therefore.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Norfolke, Suffolke, and Cambridge to,</l>
+                  <l>and through Huntington,</l>
+                  <l>Northampton and Rutland alſo,</l>
+                  <l>Oxford, Buckingham,</l>
+                  <l>So I to Bedford, Hartford, Eſſex,</l>
+                  <l>Then to Middleſex,</l>
+                  <l>where I lived before,</l>
+                  <lg type="refrain">
+                     <l>My friends ſoone dyed, then I, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>My friends being dead, my meanes I ſold,</l>
+                  <l>and then did goe,</l>
+                  <l>With gallant Sparkes of courage bold,</l>
+                  <l>againſt Englands foe,</l>
+                  <l>The <hi>Neptunes</hi> foaming floods we paſſed,</l>
+                  <l>And thus we traſed</l>
+                  <l>to the forraigne ſhore,</l>
+                  <lg type="refrain">
+                     <l>But now alas, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Then in the exerciſe of <hi>Mars,</hi>
+                  </l>
+                  <l>wee ſoone were tride,</l>
+                  <l>Whereas our luckleſſe fortune was,</l>
+                  <l>ſoone for to abide,</l>
+                  <l>Hunger and cold with bloody battell,</l>
+                  <l>The Drummes did rattell,</l>
+                  <l>and the Canons rore,</l>
+                  <lg type="refrain">
+                     <l>From thence returned I, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>When I for England came againe,</l>
+                  <l>I tryed my friends,</l>
+                  <l>To ſee what meanes I could obtaine,</l>
+                  <l>but their friendſhip ends,</l>
+                  <l>They ſay I might have beene more carefull</l>
+                  <l>My caſe is fearefull,</l>
+                  <l>which doth grieve me ſore,</l>
+                  <lg type="refrain">
+                     <l>For now alas, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Once where ere I did come or goe,</l>
+                  <l>I ſtill found friends,</l>
+                  <l>But now I cannot finde it ſo,</l>
+                  <l>having no meanes,</l>
+                  <l>They will not now ſo much as know nice,</l>
+                  <l>But doe forgoe mee,</l>
+                  <l>now from doore to doore,</l>
+                  <lg type="refrain">
+                     <l>I'm faine to beg, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Let this a warning be to all</l>
+                  <l>prodigall youth,</l>
+                  <l>Here you may now behold the fall,</l>
+                  <l>of him that ſhew'th</l>
+                  <l>His careleſſe and riotous ſpending,</l>
+                  <l>But now his ending</l>
+                  <l>is like to <hi>Iane Shore,</hi>
+                  </l>
+                  <lg type="refrain">
+                     <l>For he was, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Thus to conclude I will relate,</l>
+                  <l>of this poore man,</l>
+                  <l>He dy'd in a wofull eſtate,</l>
+                  <l>as I underſtand,</l>
+                  <l>For in the open fields he dyed,</l>
+                  <l>Being denyed,</l>
+                  <l>to come within doore,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Nay at the Brick-kills he was burned,</hi>
+                     </l>
+                     <l>
+                        <hi>And his fleſh turned,</hi>
+                     </l>
+                     <l>
+                        <hi>to aſhes all o're.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <closer>
+               <signed>R. C.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>P<gap reason="illegible: damage" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> London for <hi>F. Coules.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
